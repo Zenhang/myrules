@@ -1,8 +1,11 @@
-# 内容：Steam
+# 内容：Steam相关规则
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steampipe.akamaized.net  #（非中国区域）游戏下载
+
+#（非中国区域）游戏下载
+DOMAIN,steampipe.akamaized.net
+
 DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
