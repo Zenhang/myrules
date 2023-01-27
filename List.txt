@@ -1,1 +1,3 @@
-
+vmess = shcm.donghui.tech:29152, method=chacha20-ietf-poly1305, password=24c64412-0972-4b08-8e81-37f4dce70417, aead=true, obfs=ws, obfs-host=shcm.donghui.tech, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇸🇬 上海移动SGP
+vmess = azsh01.1aba.cn:15314, method=chacha20-ietf-poly1305, password=24c64412-0972-4b08-8e81-37f4dce70417, aead=true, obfs=ws, obfs-host=azsh01.1aba.cn, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇸🇬 AZ上海SGP
+vmess = g.zhaoyuanbigson.cf:443, method=chacha20-ietf-poly1305, password=52a74100-f508-410d-caa3-6002fed1f5dc, aead=true, obfs=wss, obfs-host=g.zhaoyuanbigson.cf, obfs-uri=/, fast-open=false, udp-relay=true, tls-verification=true, tag=GcoreSGP
