@@ -1,1 +1,6 @@
-
+vmess = gyiepl.1aba.cn:57546, method=chacha20-ietf-poly1305, password=6cc19a8d-fc88-4c9b-c53c-df7efbb667a8, aead=true, obfs=ws, obfs-host=gyiepl.1aba.cn, obfs-uri=/, fast-open=false, udp-relay=true, tag=广电A--->AZHK
+vmess = azsh01.1aba.cn:16240, method=chacha20-ietf-poly1305, password=6cc19a8d-fc88-4c9b-c53c-df7efbb667a8, aead=true, obfs=ws, obfs-host=azsh01.1aba.cn, obfs-uri=/, fast-open=false, udp-relay=true, tag=AZ上海--->AZHK
+vmess = shcm.donghui.tech:26027, method=chacha20-ietf-poly1305, password=6cc19a8d-fc88-4c9b-c53c-df7efbb667a8, aead=true, obfs=ws, obfs-host=shcm.donghui.tech, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇭🇰 上海移动--->AWS香港
+vmess = shcm.donghui.tech:37168, method=chacha20-ietf-poly1305, password=6cc19a8d-fc88-4c9b-c53c-df7efbb667a8, aead=true, obfs=ws, obfs-host=shcm.donghui.tech, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇭🇰 上海移动--->HKT
+vmess = gzyda.donghui.tech:35511, method=chacha20-ietf-poly1305, password=6cc19a8d-fc88-4c9b-c53c-df7efbb667a8, aead=true, obfs=ws, obfs-host=gzyda.donghui.tech, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇭🇰 广州移动A--->HGC
+vmess = g.zhaoyuanbigson.cf:443, method=chacha20-ietf-poly1305, password=4dbd109e-d71d-470f-fc8b-a5312a7a8cf0, aead=true, obfs=wss, obfs-host=g.zhaoyuanbigson.cf, obfs-uri=/ray, fast-open=false, udp-relay=true, tls-verification=true, tag=Gcore
