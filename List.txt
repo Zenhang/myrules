@@ -1,5 +1,1 @@
 
-vmess = g.zhaoyuanbigson.cf:443, method=chacha20-ietf-poly1305, password=e0d459cc-9b0a-4d57-a7a8-89657423c126, aead=true, obfs=wss, obfs-host=g.zhaoyuanbigson.cf, obfs-uri=/, fast-open=false, udp-relay=true, tls-verification=true, tag=Gcore主力
-vmess = shcu2.1aba.cn:57286, method=chacha20-ietf-poly1305, password=e0d459cc-9b0a-4d57-a7a8-89657423c126, aead=true, obfs=ws, obfs-host=shcu2.1aba.cn, obfs-uri=/, fast-open=false, udp-relay=true, tag=az备用
-vmess = 172.67.159.145:443, method=chacha20-ietf-poly1305, password=e0d459cc-9b0a-4d57-a7a8-89657423c126, aead=true, obfs=wss, obfs-host=v.zhaoyuanbigson.cf, obfs-uri=/, fast-open=false, udp-relay=true, tls-verification=true, tag=Cloudflare
-vmess = 172.67.40.177:443, method=chacha20-ietf-poly1305, password=e0d459cc-9b0a-4d57-a7a8-89657423c126, aead=true, obfs=wss, obfs-host=v.zhaoyuanbigson.cf, obfs-uri=/, fast-open=false, udp-relay=true, tls-verification=true, tag=Cloudflare 2
