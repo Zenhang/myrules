@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix":[
+      "*.steamcontent.com"
+      ],
+      "domain": [
+      "st.dl.eccdnx.com",
+      "st.dl.bscstorage.net",
+      "st.dl.pinyuncloud.com",
+      "dl.steam.clngaa.com",
+      "cdn-ws.content.steamchina.com",
+      "cdn-qc.content.steamchina.com",
+      "cdn-ali.content.steamchina.com",
+      "xz.pphimalayanrt.com",
+      "lv.queniujq.cn",
+      "alibaba.cdn.steampipe.steamcontent.com",
+      "edge.steam-dns.top.comcast.net",
+      "edgecast.cdn.steampipe.steamcontent.com",
+      "google.cdn.steampipe.steamcontent.com",
+      "google2.cdn.steampipe.steamcontent.com",
+      "level3.cdn.steampipe.steamcontent.com",
+      "steampipe-partner.secure2.footprint.net",
+      "steam.eca.qtlglb.com",
+      "steam.naeu.qtlglb.com",
+      "steam.ru.qtlglb.com",
+      "steam.apac.qtlglb.com",
+      "steampipe-kr.akamaized.net",
+      "steampipe-partner.akamaized.net",
+      "steampipe.akamaized.net",
+      "f3b7q2p3.ssl.hwcdn.net",
+      "a4e8s8k3.map2.ssl.hwcdn.net",
+      "telus.cdn.steampipe.steamcontent.com",
+      "steam.cdn.on.net",
+      "steam.cdn.orcon.net.nz",
+      "steam.cdn.slingshot.co.nz",
+      "steam.cdn.webra.ru"
+      ]
+    }
+  ]
+}
