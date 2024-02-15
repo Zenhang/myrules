@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "process_name": [
+          "Overwatch.exe",
+          "r5apex.exe"
+        ]
+      }
+    ]
+  }
