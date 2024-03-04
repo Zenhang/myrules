@@ -19,7 +19,6 @@ payload:
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamstatic.com.8686c.com
   - DOMAIN-SUFFIX,steamunlocked.net
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
@@ -27,8 +26,10 @@ payload:
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
+  #云同步(AWS)
   - DOMAIN,steamcloud-sg.s3.dualstack.ap-southeast-1.amazonaws.com
   - DOMAIN,steamcloud-tyo.s3.dualstack.ap-northeast-1.amazonaws.com
+  #云同步(Google)
   - DOMAIN,steamcloud-eu-ams.storage.googleapis.com
   - DOMAIN,steamcloud-eu-fra.storage.googleapis.com
   - DOMAIN,steamcloud-finland.storage.googleapis.com
@@ -38,6 +39,7 @@ payload:
   - DOMAIN,steamcloud-taiwan.storage.googleapis.com
   - DOMAIN,steamcloud-ugc.storage.googleapis.com
   - DOMAIN,steamcloud-eu.storage.googleapis.com
+  #云同步(Azure)
   - DOMAIN,steamclouduseast.blob.core.windows.net
   - DOMAIN,steamcloudsg.blob.core.windows.net
   - DOMAIN,steamcloudsaopaulo.blob.core.windows.net
@@ -52,3 +54,7 @@ payload:
   - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+  
+  
+  
+  
