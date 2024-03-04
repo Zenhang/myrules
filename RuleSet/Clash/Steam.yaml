@@ -1,4 +1,5 @@
 #手搓Steam规则
+#域名摘抄自Dogfight360大佬的软件UsbEAM中
 payload:
   - DOMAIN,steammobile.akamaized.net
   - DOMAIN-SUFFIX,csgo.wmsj.cn
@@ -11,8 +12,6 @@ payload:
   - DOMAIN-SUFFIX,steam-api.com
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
-  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamcontent.tnkjmec.com
   - DOMAIN-SUFFIX,steamgames.com
@@ -21,14 +20,35 @@ payload:
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamstatic.com.8686c.com
-  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   - DOMAIN-SUFFIX,steamunlocked.net
-  - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
-  - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
-  - DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
+  - DOMAIN,steamcloud-sg.s3.dualstack.ap-southeast-1.amazonaws.com
+  - DOMAIN,steamcloud-tyo.s3.dualstack.ap-northeast-1.amazonaws.com
+  - DOMAIN,steamcloud-eu-ams.storage.googleapis.com
+  - DOMAIN,steamcloud-eu-fra.storage.googleapis.com
+  - DOMAIN,steamcloud-finland.storage.googleapis.com
+  - DOMAIN,steamcloud-saopaulo.storage.googleapis.com
+  - DOMAIN,steamcloud-singapore.storage.googleapis.com
+  - DOMAIN,steamcloud-sydney.storage.googleapis.com
+  - DOMAIN,steamcloud-taiwan.storage.googleapis.com
+  - DOMAIN,steamcloud-ugc.storage.googleapis.com
+  - DOMAIN,steamcloud-eu.storage.googleapis.com
+  - DOMAIN,steamclouduseast.blob.core.windows.net
+  - DOMAIN,steamcloudsg.blob.core.windows.net
+  - DOMAIN,steamcloudsaopaulo.blob.core.windows.net
+  - DOMAIN,steamcloudlrsuswest.blob.core.windows.net
+  - DOMAIN,steamcloudfrankfurt.blob.core.windows.net
+  - DOMAIN,steamclouddub.blob.core.windows.net
+  - DOMAIN,steamcloudams2.blob.core.windows.net
+  - DOMAIN,steamcloudams.blob.core.windows.net
+  - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
