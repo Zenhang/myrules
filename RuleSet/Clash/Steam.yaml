@@ -2,11 +2,7 @@
 #域名摘抄自Dogfight360大佬的软件UsbEAM中
 payload:
   - DOMAIN,steammobile.akamaized.net
-  - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,dl.steam.ksyna.com
-  - DOMAIN-SUFFIX,dota2.wmsj.cn
-  - DOMAIN-SUFFIX,fanatical.com
-  - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,steam-api.com
@@ -22,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,steamunlocked.net
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
-  - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
