@@ -1,6 +1,6 @@
 payload:
 #Steam登录+下载CDN定位中国
-  - DOMAIN,api.steampowered.com
+  #- DOMAIN,api.steampowered.com
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
   - IP-CIDR,"103.10.124.0/24",no-resolve
