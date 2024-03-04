@@ -77,6 +77,8 @@ payload:
 
   - DOMAIN-SUFFIX,steamstatic.com.8686c.com
   - DOMAIN,broadcast.st.dl.eccdnx.com
-  
+  - DOMAIN-SUFFIX,csgo.wmsj.cn
+  - DOMAIN-SUFFIX,dota2.wmsj.cn
+  - DOMAIN-SUFFIX,wmsjsteam.com
   
   
