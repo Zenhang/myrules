@@ -80,5 +80,8 @@ payload:
   - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,wmsjsteam.com
+
+  #Warframe游戏更新
+  - DOMAIN-SUFFIX,content.warframe.com
   
   
