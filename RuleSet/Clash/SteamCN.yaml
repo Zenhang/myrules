@@ -1,4 +1,11 @@
 payload:
+  - DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
+  - DOMAIN-SUFFIX,download.epicgames.com
+  - DOMAIN-SUFFIX,download2.epicgames.com
+  - DOMAIN-SUFFIX,download3.epicgames.com
+  - DOMAIN-SUFFIX,download4.epicgames.com
+  - DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+  - DOMAIN-SUFFIX,fastly-download.epicgames.com
 #Steam登录+下载CDN定位中国
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
