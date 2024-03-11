@@ -1,1 +1,4 @@
 #存放临时规则
+payload:
+#oooo
+  - DOMAIN-SUFFIX,cdn-lfs.huggingface.co
