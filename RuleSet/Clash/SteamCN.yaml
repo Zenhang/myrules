@@ -1,6 +1,4 @@
 payload:
-#临时
-  - DOMAIN-SUFFIX,cdn-lfs.huggingface.co
 #HB
   - DOMAIN-SUFFIX,humblebundle.com
 #Epic下载
