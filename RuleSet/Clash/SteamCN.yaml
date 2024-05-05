@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,epicgames-download1.akamaized.net
   - DOMAIN-SUFFIX,fastly-download.epicgames.com
   - DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
+  - DOMAIN-SUFFIX,ipv4.egdownload.fastly-edge.com
 #Steam登录+下载CDN定位中国
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
